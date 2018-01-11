@@ -1,10 +1,10 @@
 # Site settings
-name: zcnock的博客
-email: maoxiaoke@outlook.com
-author: M/J
-url: http://xiaokedada.com
+name: ZCNOCK的博客
+email: 976322965@qq.com
+author: zcnock
+url: http://zp976.cn
 resume_site: http://xiaokedada.com/me/
-github: https://github.com/maoxiaoke/
+github: https://github.com/zp976/
 baseurl: ""  #根目录
 description: 假如生活欺骗了你，不要悲伤，不要哭泣。
 motto: 我们笑着说再见，却深知再见遥遥无期。
@@ -24,4 +24,4 @@ FB:
   comments :
     provider : disqus
     disqus :
-        short_name : xiaokedada
+        short_name : zp976
