@@ -196,6 +196,7 @@ var myBot = new BotUI('hello-world');
       return myBot.message.add({
         delay: 1000,
         loading: true,
-        content: 'Bye bye!'
+        content: 'Bye bye! '
       })
     })
+
