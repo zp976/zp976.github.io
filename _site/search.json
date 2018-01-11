@@ -12,30 +12,20 @@
 
 {
 
-"title"    : "标签目录",
+"title"    : "博文分类",
 "category" : "",
 "tags"     : "",
-"url"      : "/tag/",
+"url"      : "/categories/",
 "date"     : ""
 
 } ,
 
 {
 
-"title"    : "DEMO",
+"title"    : "标签目录",
 "category" : "",
 "tags"     : "",
-"url"      : "/effects/",
-"date"     : "2017-04-18 09:00:00 +0800"
-
-} ,
-
-{
-
-"title"    : "博文分类",
-"category" : "",
-"tags"     : "",
-"url"      : "/categories/",
+"url"      : "/tag/",
 "date"     : ""
 
 } ,
@@ -52,11 +42,11 @@
 
 {
 
-"title"    : "赞助名单",
+"title"    : "DEMO",
 "category" : "",
 "tags"     : "",
-"url"      : "/donate/list/",
-"date"     : "2017-02-22 09:08:15 +0800"
+"url"      : "/effects/",
+"date"     : "2017-04-18 09:00:00 +0800"
 
 } ,
 
@@ -67,6 +57,16 @@
 "tags"     : "",
 "url"      : "/donate/",
 "date"     : "2017-02-18 18:34:51 +0800"
+
+} ,
+
+{
+
+"title"    : "赞助名单",
+"category" : "",
+"tags"     : "",
+"url"      : "/donate/list/",
+"date"     : "2017-02-22 09:08:15 +0800"
 
 } ,
 
