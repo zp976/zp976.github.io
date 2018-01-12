@@ -1,5 +1,5 @@
 ---
-layout: original
+layout: post
 title: "喂，少年"
 date: 2015-02-24 19:30:26 +0800 
 categories: 我的小说
